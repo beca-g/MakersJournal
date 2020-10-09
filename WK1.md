@@ -34,7 +34,7 @@ Well that went fast... Where has the week gone!?
 #### Friday:
 - Goal: Learn more about debugging, come up with and try to stick to a basic debugging process.
 - Plan: Work through the Debugging_Fizzbuzz exercise.
-- [Evidence: Debugging_FizzBuzz exercise]()
+- [Evidence: Debugging_FizzBuzz exercise](https://github.com/beca-g/debugging_fizzbuzz)
 - [process](https://docs.google.com/document/d/1qHLj0eAbMWxN59ezpFbyMFaLbqQlAj15eXcwgTPXgP4/edit)
 
 
