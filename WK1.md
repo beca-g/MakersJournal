@@ -35,7 +35,7 @@ Well that went fast... Where has the week gone!?
 - Goal: Learn more about debugging, come up with and try to stick to a basic debugging process.
 - Plan: Work through the Debugging_Fizzbuzz exercise.
 - [Evidence: Debugging_FizzBuzz exercise](https://github.com/beca-g/debugging_fizzbuzz)
-- [process](https://docs.google.com/document/d/1qHLj0eAbMWxN59ezpFbyMFaLbqQlAj15eXcwgTPXgP4/edit)
+- [Process](https://docs.google.com/document/d/1qHLj0eAbMWxN59ezpFbyMFaLbqQlAj15eXcwgTPXgP4/edit)
 
 
 ## **Reflection**
@@ -48,7 +48,7 @@ BUT let's just concentrate on what I have achieved...
  - I worked out a basic debugging process that I have been trying to stick to when working through my colossal amount of errors...! * *errors are your friend, errors are your friend* *
  
  ***Best bits of the week?***   
- I absolutely loved the pairing session, I learn so much from collaborating with someone else. I have been requesting feedback via my feedback form and so far have received some great and helpful feedback. Its been a great way for pairs to note an improvement or better yet a pat on the back without feeling awkward or uncomfortable. [form](https://docs.google.com/forms/d/1WgmnQF4tuyHTlt3WGhgaQ6QIj_IVHzyxHuD7C64SQVs/edit)
+ I absolutely loved the pairing session, I learn so much from collaborating with someone else. I have been requesting feedback via my feedback form and so far have received some great and helpful feedback. Its been a great way for pairs to note an improvement or better yet a pat on the back without feeling awkward or uncomfortable. [Form](https://docs.google.com/forms/d/1WgmnQF4tuyHTlt3WGhgaQ6QIj_IVHzyxHuD7C64SQVs/edit)
 
 ***What would you improve or change moving forward?***   
 Firstly, I need to plan my time better, as I mentioned above I can't finish everything so need to use my time to understand everything. I feel like I maybe missed out on grasping a better understanding of TDD as I spent a lot of time trying to finish things.
