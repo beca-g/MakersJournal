@@ -3,13 +3,13 @@
 Well that went fast... Where has the week gone!?
 
 
-### **WK1_GOALS**
+### **Week 1 Goals**
 1. Understand and able to describe some OOP principles - encapsulation, SRP 
 2. Able to effectively pair using the driver-navigator style
 3. Learn basic TTD best practices
 4. Am able to follow and effectively debug some programmes with errors 
 
-### **PLAN**
+### **Plan**
 1. Research and read about OOP, work through OO exercises in the week outline 
 2. Daily pairing sessions with different pair partners - I will be requesting feedback through a short googleform to help improve myself
 3. Attend the TDD workshop and practice throughout the Boris Bikes challenge
