@@ -1,6 +1,5 @@
 # **Week 2**
 
-
 ### **WK2_GOALS**
 1. Continue using all skills gained from week 1
 2. Be able to break one class into two and while maintain test coverage
@@ -59,5 +58,5 @@ Again, lets concentrate on everything that I have achieved this week.
 
 **Plan, plan, plan.** Stop rushing into challenges/exercises and plan.
 
-**Improvements:**
+**Improvements/things to note:**
 - I didn't get to look into Dependancy Injection this week so I would like to go back and do the exercise to gain a basic understanding of the concept.
