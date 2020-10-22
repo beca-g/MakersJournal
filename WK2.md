@@ -1,13 +1,13 @@
 # **Week 2**
 
-### **WK2_GOALS**
+### **Week 2 Goals**
 1. Continue using all skills gained from week 1
 2. Be able to break one class into two and while maintain test coverage
 3. Understand mocking and be able to unit test classes in isolation using mocking
 4. Explore Encapsulation and SRP further and look into Abstraction
 5. Review another persons code and give meaningful feedback
 
-### **PLAN**
+### **Plan**
 1. Practise all skills learnt from week 1 through exercises and the afternoon challenge
 2. Work through the [Refactoring](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/refactoring.md) practical
 3. Research mocking and understand basic fundamentals, apply to an exercise or the afternoon challenge
@@ -25,7 +25,7 @@
 #### Tuesday:
 - Goal: Improve my current diagramming method.
 - Plan: Attend the Diagramming workshop and research any further methods.
-- [Diagram](https://docs.google.com/document/d/1E4xACM11yjKUHPTFB8P_k8nsoV_etfmjsnYLrJlWCWs/edit) made using [mural](app.mural.co) and recommended by KC! 
+- [Diagram](https://i.imgur.com/mmDbC6D.png[/img]) made using [mural](app.mural.co) and recommended by KC! 
 
 #### Wednesday:
 - Goal: Be able to easily break one class into two and while maintain test coverage
