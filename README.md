@@ -6,7 +6,7 @@ Journaling my way through Makers.
 
 - [Week2](https://github.com/beca-g/MakersJournal/blob/master/WK2.md) - Finding my feet
 
-- [Week3]() - Intro to the web & building apps
+- [Week3](https://github.com/beca-g/MakersJournal/blob/master/WK3.md) - Intro to the web & building apps
 
 - [Week4]() -
 
