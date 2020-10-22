@@ -20,7 +20,7 @@
 #### Wednesday:
 - Goal: Reseach into what the MVC pattern is and be able to explain it to a fellow Maker.
 - Plan: Reseach and Watch videos explaining this.
-- [Diagram](https://docs.google.com/document/d/1tm5vdIxV2RVRW_Lb2rrRXhUecK25OhY8K9ZJo-kODwA/edit)
+- [Diagram](https://imgur.com/tvpMWuE.png[/img])
 
 #### Thursday:
 - Goal: Practise an effective debugging process for web applications.
@@ -39,7 +39,6 @@ I managed to meet all my goals this week and for the first time managed to finis
  
  ***Best bits of the week?***   
  Loved working with CSS and HTML this week, it's so satisfying seeing your work appear in a browser and even more satisfying playing around with making things look lovely!   
-
 
 
 ***What would you improve or change moving forward?***   
