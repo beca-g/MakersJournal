@@ -42,6 +42,4 @@ I managed to meet all my goals this week and for the first time managed to finis
 
 
 ***What would you improve or change moving forward?***   
-
-
-**Improvements:**
+I really want to try and finish the afternoon challenge, I think this would really benifit my weekend work.
