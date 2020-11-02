@@ -10,7 +10,7 @@ Journaling my way through Makers.
 
 - [Week3](https://github.com/beca-g/MakersJournal/blob/master/WK3.md) - Intro to the web & building apps
 
-- [Week4]() -
+- [Week4](https://github.com/beca-g/MakersJournal/blob/master/WK4.md) - brain.scrambled
 
 - [Week5]() - 
 
