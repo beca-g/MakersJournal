@@ -1,4 +1,4 @@
-### **Week 3 Goals**
+### **Week 4 Goals**
 1. Able to build a simple web app with a database
 2. Can follow an effective debugging process for database applications
 3. Able to explain the basics of how a database works (tables, SQL, basic relationships)
