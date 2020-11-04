@@ -16,6 +16,12 @@ Well that went fast... Where has the week gone!?
 4. Come up with a simple debugging process and attend the debugging workshop
 
 
+## Challenges
+
+- Boris Bikes - [repo](https://github.com/beca-g/Boris_Bikes)
+- Airport Challenge - [repo](https://github.com/beca-g/airport_challenge)
+
+
 ## **Daily Goals**
 
 #### Tuesday:
