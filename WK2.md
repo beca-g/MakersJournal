@@ -14,6 +14,10 @@
 4. Research the four pillars of OOP, use videos and materials provided from Makers
 5. Attend and take part in the code review workshop
 
+## Challenges
+
+- Oystercard - [repo](https://github.com/beca-g/oystercard)
+- Takeaway - [repo](https://github.com/beca-g/takeaway-challenge)
 
 ## **Daily Goals**
 
