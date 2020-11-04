@@ -28,18 +28,21 @@
 - [CRC and DB Plan](https://docs.google.com/spreadsheets/d/1U2EMOdWgp3o7G1gSEyShmJe7zlMUX-uaHIHZEqQcFoc/edit#gid=0)
 
 
-#### Tuesday:
+#### Monday:
 - Goal: Set up and basic structure, update the readme 
 - Plan: The whole team to set up and structure the project.
 
-#### Wednesday:
-- Goal: Add the sign up and sign in function and complete the first user story
+#### Tuesday:
+- Goal: Finish the set up and add the sign up and sign in function and complete the first user story. Create the first database tables for users and spaces.
 - Plan: Work through the steps from [this video](https://www.youtube.com/watch?v=CS1jxw51ENE)
+
+#### Wednesday:
+- Goal: Continue working through the plan. Create the database tables for requests and bookings.
+- Plan: Using the CRC cards made on Monday create the tables.
 
 #### Thursday:
 - Goal: Start working on the CSS, get a basic plan and layout started.
 - Plan: Research CSS and create a basic template through the layout view.
-
 
 #### Friday
 - Goal: Finish the CSS, update buttons, change buttons on the home page to links in the spaces titles, design and add a logo.
