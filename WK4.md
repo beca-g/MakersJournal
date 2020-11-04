@@ -3,12 +3,16 @@
 2. Can follow an effective debugging process for database applications
 3. Able to explain the basics of how a database works (tables, SQL, basic relationships)
 
-
 ### **Plan**
 1. Work through the afternoon challenge. 
 2. Reseach into what a database is and explain it to a fellow Maker.
 3. Attend the Database - Domain Modelling using CRC cars workshop.
 4. Work through the practicals: Entity Relationship Diagrams, SQL Zoo, SQL Murder Mystery, build a diary app.
+
+## Challenges
+
+- Bookmark Manager - [repo](https://github.com/beca-g/bookmark_manager)
+- Chitter - [repo](https://github.com/beca-g/chitter-challenge)
 
 ## **Daily Goals**
 
