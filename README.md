@@ -12,9 +12,9 @@ Journaling my way through Makers.
 
 - [Week4](https://github.com/beca-g/MakersJournal/blob/master/WK4.md) - brain.scrambled
 
-- [Week5]() - 
+- [Week5](https://github.com/beca-g/MakersJournal/blob/master/WK5.md) - null Spaces
 
-- [Week6]() -
+- [Week6]() - 
 
 - [Week7]() - 
 
