@@ -10,6 +10,12 @@
 3. Using diagrams go over the request/responce cycle
 4. Reseach MVC and explain it to a fellow Maker.
 
+## Challenges
+
+- Battle - [repo](https://github.com/beca-g/Battle)
+- Rock-Paper-Scissors - [repo](https://github.com/beca-g/rps-challenge)
+
+
 ## **Daily Goals**
 
 #### Tuesday:
