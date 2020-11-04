@@ -1,3 +1,5 @@
+# **Week 3**
+
 ### **Week 3 Goals**
 1. Able to build a simple web app 
 2. Can follow an effective debugging process for web applications
@@ -14,7 +16,6 @@
 
 - Battle - [repo](https://github.com/beca-g/Battle)
 - Rock-Paper-Scissors - [repo](https://github.com/beca-g/rps-challenge)
-
 
 ## **Daily Goals**
 
