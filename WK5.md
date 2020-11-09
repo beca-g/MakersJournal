@@ -53,7 +53,7 @@
 ## **Reflection**
 
  ***Best bits of the week?***   
-After a long, tough, week tt was amazing to have a complete working BnB clone by the end of the week. 
+After a long, tough, week it was amazing to have a complete working BnB clone by the end of the week. 
 
 ***What would you improve or change moving forward?***   
 Learn the basics of CSS before attempting to style a project. It was infuriating to try and align everything.
