@@ -14,7 +14,7 @@ Journaling my way through Makers.
 
 - [Week5](https://github.com/beca-g/MakersJournal/blob/master/WK5.md) - null Spaces
 
-- [Week6]() - 
+- [Week6](https://github.com/beca-g/MakersJournal/blob/master/WK6.md) - Half way point and my new found love Javascript
 
 - [Week7]() - 
 
