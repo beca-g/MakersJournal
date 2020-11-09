@@ -52,12 +52,11 @@
 
 ## **Reflection**
 
-***Did you meet all of the goals set this week?***   
-
-
  ***Best bits of the week?***   
+After a long, tough, week tt was amazing to have a complete working BnB clone by the end of the week. 
 
 ***What would you improve or change moving forward?***   
-
+Learn the basics of CSS before attempting to style a project. It was infuriating to try and align everything.
 
 **Improvements:**
+Do a basic CSS tutorial and learn how to use flex boxes.
