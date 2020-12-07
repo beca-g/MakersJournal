@@ -1,4 +1,4 @@
-# **Week **
+# **Week 7**
 
 ### **Week 7 Goals**
 1. Build a front-end app in Javascript
