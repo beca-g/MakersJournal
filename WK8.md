@@ -29,6 +29,7 @@
 #### Tuesday:
 - Goal: Initial set up with Travis & Heroku, work on the 1st user story - A user can view posts to see if they want to join acebook.
 - Plan: Mob on set up.  
+
 **Useful resources:**
 - [Setting up Travis](https://medium.com/full-taxx/how-to-setup-travis-ci-for-a-rails-application-78a453963300)
 - [Automatically deploy wit travis & Heroku](https://medium.com/@felipeluizsoares/automatically-deploy-with-travis-ci-and-heroku-ddba1361647f)  
@@ -36,7 +37,8 @@
 
 #### Wednesday:
 - Goal: Finish Heroku set up. Complete the first user story, start 2nd user story - users can sign up and sign in to acebook.
-- Plan: Mob to finish set up, reseach best ways to set up authentication - look into Devise.  
+- Plan: Mob to finish set up, reseach best ways to set up authentication - look into Devise.   
+
 **Useful resources:**
 - [Generating controllers](https://guides.rubyonrails.org/getting_started.html#generating-a-controller) 
 - [Ruby rails forms]( https://api.rubyonrails.org/v6.0.3.4/classes/ActionView/Helpers/FormBuilder.html#method-i-password_field)  
@@ -56,6 +58,7 @@
 #### Friday:
 - Goal: Improve test coverage. Update code so that only logged in users can post. Update code so that posts show the date they were posted and who posted them.
 - Plan: Work in pairs to complete goals.  
+
 **Useful resources:**
 - [Capybara cheatsheet](https://cheatography.com/corey/cheat-sheets/capybara-with-rspec/)
 - [Timecop gem](https://github.com/travisjeffery/timecop)
