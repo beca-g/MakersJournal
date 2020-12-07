@@ -33,7 +33,7 @@
 #### Wednesday:
 - Goal: Gain a further understanding of JS syntax and testing.
 - Plan: Rewrite the airport challenge in Javascript.
-- [Airport-Javascript](https://github.com/beca-g/
+- [Airport-Javascript](https://github.com/beca-g/)
 
 #### Thursday:
 - Goal: Gain a basic understanding of call back. 
@@ -56,5 +56,5 @@ Took my very basic HTML & CSS skills to the next level and managed to stylist my
 I didn't get to finish the afternoon challenge, I would like to go back at some point and finish it. I would also like to go back over jQuery and implement it into my weekend bowling challnege.
 
 **Improvements:**
-- Continue work on improving CSS skills
+- Continue working on improving CSS skills
 - Go back over jQuery and implement it into my weekend challenge.
