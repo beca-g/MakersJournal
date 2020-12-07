@@ -16,9 +16,9 @@ Journaling my way through Makers.
 
 - [Week6](https://github.com/beca-g/MakersJournal/blob/master/WK6.md) - Half way point and my new found love Javascript
 
-- [Week7]() - 
+- [Week7](https://github.com/beca-g/MakersJournal/blob/master/WK7.md) - When will Javascript get eaiser?!
 
-- [Week8]() -
+- [Week8](https://github.com/beca-g/MakersJournal/blob/master/WK8.md) - DistrictBook and the Dream Team
 
 - [Week9]() -
 
